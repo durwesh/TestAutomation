@@ -1,4 +1,4 @@
-package swiggyTestCase;
+package swiggyProject;
 
 public class LoginTestCase {
 
