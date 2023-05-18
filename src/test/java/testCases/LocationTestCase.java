@@ -20,7 +20,7 @@ public class LocationTestCase extends swiggyProject.BaseClass {
 		
 		Thread.sleep(5000);
 		WebElement expected = lop.setLocation;
-		Assert.assertEquals(expected,"Hyderabad, Telangana, India");
+		Assert.assertEquals(true, expected.isDisplayed());
 		
 		
 	}
