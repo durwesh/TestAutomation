@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-18T06:53:58 IST" name="Default suite" finished-at="2023-05-18T06:54:09 IST" duration-ms="10783">
+  <suite started-at="2023-05-18T07:05:14 IST" name="Default suite" finished-at="2023-05-18T07:05:25 IST" duration-ms="11365">
     <groups>
     </groups>
-    <test started-at="2023-05-18T06:53:58 IST" name="Default test" finished-at="2023-05-18T06:54:09 IST" duration-ms="10783">
+    <test started-at="2023-05-18T07:05:14 IST" name="Default test" finished-at="2023-05-18T07:05:25 IST" duration-ms="11365">
       <class name="testCases.LocationTestCase">
-        <test-method is-config="true" signature="start()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T06:53:58 IST" name="start" finished-at="2023-05-18T06:54:03 IST" duration-ms="4735" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T07:05:14 IST" name="start" finished-at="2023-05-18T07:05:19 IST" duration-ms="4946" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="tc001_validate_location()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T06:54:03 IST" name="tc001_validate_location" finished-at="2023-05-18T06:54:09 IST" duration-ms="5790" status="PASS">
+        <test-method signature="tc001_validate_location()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T07:05:19 IST" name="tc001_validate_location" finished-at="2023-05-18T07:05:25 IST" duration-ms="6118" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc001_validate_location -->
-        <test-method is-config="true" signature="closeUp()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T06:54:09 IST" name="closeUp" finished-at="2023-05-18T06:54:09 IST" duration-ms="205" status="PASS">
+        <test-method is-config="true" signature="closeUp()[pri:0, instance:testCases.LocationTestCase@5d0a1059]" started-at="2023-05-18T07:05:25 IST" name="closeUp" finished-at="2023-05-18T07:05:25 IST" duration-ms="241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeUp -->

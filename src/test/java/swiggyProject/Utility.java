@@ -20,6 +20,7 @@ public static WebDriver driver;
 	// Launch url
 	public static void launchUrl(String url) {
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
 		driver.get(url);
 	}
 	// Get properties
